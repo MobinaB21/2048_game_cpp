@@ -1,0 +1,3 @@
+﻿  Game 2048.cpp
+D:\visual studio projects\Game 2048\Game 2048.cpp(421,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game 2048.vcxproj -> D:\visual studio projects\Game 2048\x64\Debug\Game 2048.exe
